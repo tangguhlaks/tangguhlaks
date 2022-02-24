@@ -7,8 +7,8 @@
 - 🧑‍💻 I’m Android Developer
 - 🧑‍💻 I’m Competiitive Programming Lover
 - 🧑‍💻 I’m Problem Solver
-HackerRank : https://www.hackerrank.com/tangguhlaksana0
-Linkedin   : https://www.linkedin.com/in/tangguhlaksana0
+- HackerRank : https://www.hackerrank.com/tangguhlaksana0
+- Linkedin   : https://www.linkedin.com/in/tangguhlaksana0
 
 <!---
 tangguhlaks/tangguhlaks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
