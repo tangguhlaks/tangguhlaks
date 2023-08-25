@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @tangguhlaks
 - 🥷 I’m interested in Software Developer
-- 🌱 I’m currently learning Java 
-- 💞️ I’m looking to collaborate on Java Spring
+- 💞️ I’m looking to collaborate on Java Spring and .NET Core 6
 - 🧑‍💻 I’m a PHP Developer 
 - 🧑‍💻 I’m Java Developer
+- 🧑‍💻 I’m C# Developer
 - 🧑‍💻 I’m Backend Developer
 - 🧑‍💻 I’m Android Developer
-- 🧑‍💻 I’m Competiitive Programming
+- 🧑‍💻 I’m like Competiitive Programming
 - 🧑‍💻 I’m Problem Solver
 - HackerRank : https://www.hackerrank.com/tangguhlaksana0
 - Linkedin   : https://www.linkedin.com/in/tangguhlaksana0
